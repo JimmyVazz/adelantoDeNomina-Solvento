@@ -1,3 +1,3 @@
 # Adelanto de Nómina - App
 
-![App]("./appMovil/assets/app.jpg")
+![App](./appMovil/assets/app.jpg)
